@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - Program to check if anumber is less or greater than 
- * 
+ * main - Program to check if anumber is less or greater than
+ *
  * Return: 0 (successful)
  */
 
