@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - This program will assign a random number to the variable n each time it is executed
- *
+ * main - Program to check if anumber is less or greater than 
+ * 
  * Return: 0 (successful)
  */
 
@@ -19,7 +19,7 @@ int main(void)
 	printf("Last digit of %d is %d", n, x);
 	if (x > 5)
 	{
-		printf("a nd is greater than 5");
+		printf(" and is greater than 5");
 	}
 	if (x == 0)
 	{
